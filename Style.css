@@ -1,7 +1,7 @@
  body {
     font-family:"Mukta", sans-serif;;
     font-size: 14px;
-    color: #dadeddaa;
+    color: #e8f0eeaa;
     background-color: #4b4544 ;
 }
  
@@ -58,6 +58,7 @@ p {
     padding: 10px;
     border: 1px solid #f9f7fb;
     border-radius: 6px;
+    background-color: #79797e ;
 }
  
 .card ul li {
@@ -73,6 +74,7 @@ a:-webkit-any-link{
     display: flex;
     justify-content: center;
     grid-gap: 10px;
+    
    
 }
  
@@ -85,6 +87,7 @@ a:-webkit-any-link{
     main{
         width: 90vw;
         margin: auto;
+        
     }
  
    
